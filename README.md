@@ -1,6 +1,12 @@
 ## Minimal Chatbot frontend for iOS 
 This app is a basic wrapper for using an OpenAI key. 
 
+
+
+https://github.com/user-attachments/assets/f8cbb0f7-5587-4f5b-834b-349e42557318
+
+
+
 If you're creating this from scratch in xcode, you can copy the below code into ContentView, enter in your OpenAI key, and you're off to the races. 
 
 ```
